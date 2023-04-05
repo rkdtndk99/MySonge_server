@@ -1,5 +1,6 @@
 # MySonge
-2022-1 캡스톤디자인 `마이송이` Server Repository 
+![Calender](https://user-images.githubusercontent.com/63537847/229999566-f375f87f-80bd-4ac4-9012-cc1f33b1da40.png)
+
 
 ## 프로젝트 설명 
 `일정`, `날씨`, `교통`, `루틴` 이 모두를 하나의 앱에 담는 것이 이 프로젝트의 목표입니다. 
